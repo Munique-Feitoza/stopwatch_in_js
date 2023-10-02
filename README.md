@@ -1,1 +1,1 @@
-# stopwatch_in_js
+# Stopwatch in JS
